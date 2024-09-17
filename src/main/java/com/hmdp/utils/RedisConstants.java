@@ -21,4 +21,6 @@ public class RedisConstants {
     public static final String USER_SIGN_KEY = "sign:";
 
     public static final String PAN_CONSTANT = "branchPan";
+
+    public static final String ZHI_CONSTANT = "branchZhi";
 }
